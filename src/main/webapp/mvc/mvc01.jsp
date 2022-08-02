@@ -25,7 +25,5 @@
 		${lotto}
 	</c:forEach>
 	
-	
-	
 </body>
 </html>
