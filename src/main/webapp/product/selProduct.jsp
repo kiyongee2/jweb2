@@ -9,6 +9,7 @@
 	#container{width: 80%; margin: 0 auto; text-align: center}
 </style>
 </head>
+
 <body>
 	<div id="container">
 		<h2>상품 선택</h2>
